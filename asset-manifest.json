@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/trakky-ui-project/static/css/main.98dec8bf.css",
-    "main.js": "/trakky-ui-project/static/js/main.42cdb142.js",
+    "main.css": "/trakky-ui-project/static/css/main.76c9d9a8.css",
+    "main.js": "/trakky-ui-project/static/js/main.82ad81a5.js",
     "static/js/453.a4a422cc.chunk.js": "/trakky-ui-project/static/js/453.a4a422cc.chunk.js",
     "index.html": "/trakky-ui-project/index.html",
-    "main.98dec8bf.css.map": "/trakky-ui-project/static/css/main.98dec8bf.css.map",
-    "main.42cdb142.js.map": "/trakky-ui-project/static/js/main.42cdb142.js.map",
+    "main.76c9d9a8.css.map": "/trakky-ui-project/static/css/main.76c9d9a8.css.map",
+    "main.82ad81a5.js.map": "/trakky-ui-project/static/js/main.82ad81a5.js.map",
     "453.a4a422cc.chunk.js.map": "/trakky-ui-project/static/js/453.a4a422cc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98dec8bf.css",
-    "static/js/main.42cdb142.js"
+    "static/css/main.76c9d9a8.css",
+    "static/js/main.82ad81a5.js"
   ]
 }
