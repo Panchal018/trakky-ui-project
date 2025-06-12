@@ -55,7 +55,7 @@ export default function Form() {
     <div className="form-container">
       <form onSubmit={handleSubmit} className="left-form">
         <h2>Enter Spa Details</h2>
-
+{/* 
         <input
           type="text"
           name="spa_name"
@@ -106,7 +106,7 @@ export default function Form() {
           multiple
           accept="image/*"
           onChange={handleImageChange}
-        />
+        /> */}
 <div className="input-group">
   <FaSpa className="icon" />
   <input
